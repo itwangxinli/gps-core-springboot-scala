@@ -102,9 +102,6 @@ buildNumber.properties
 .DS_Store
 .gitignore
 .idea/
-gps-common/
-gps-data/src/main/scala/com/ds/
-gps-web/src/main/java/
-gps-web/src/main/profiles/
+
 /.idea/
 /gps-web/gps-web.iml
