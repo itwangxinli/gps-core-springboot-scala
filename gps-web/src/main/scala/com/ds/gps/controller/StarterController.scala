@@ -1,8 +1,8 @@
-package com.derbysoft.gps.controller
+package com.ds.gps.controller
 
-import com.derbysoft.gps.data.base.{Base, ScalaCity}
-import com.derbysoft.gps.data.repository.ScalaCityRepository
-import com.derbysoft.gps.vo.UserRequest
+import com.ds.gps.data.base.{Base, ScalaCity}
+import com.ds.gps.data.repository.ScalaCityRepository
+import com.ds.gps.vo.UserRequest
 import org.joda.time.LocalDate
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.web.bind.annotation._

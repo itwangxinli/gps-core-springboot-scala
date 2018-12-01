@@ -1,4 +1,4 @@
-package com.derbysoft.gps.vo
+package com.ds.gps.vo
 
 import com.fasterxml.jackson.annotation.JsonRootName
 

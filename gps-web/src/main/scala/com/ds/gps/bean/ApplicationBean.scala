@@ -1,4 +1,4 @@
-package com.derbysoft.gps.bean
+package com.ds.gps.bean
 
 import com.fasterxml.jackson.databind.Module
 import com.fasterxml.jackson.datatype.jdk8.Jdk8Module

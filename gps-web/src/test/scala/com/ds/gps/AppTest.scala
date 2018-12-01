@@ -1,4 +1,4 @@
-package com.derbysoft.gps
+package com.ds.gps
 
 import org.junit._
 import Assert._

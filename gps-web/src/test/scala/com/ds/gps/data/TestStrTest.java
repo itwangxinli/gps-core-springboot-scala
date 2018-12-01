@@ -1,4 +1,4 @@
-package com.derbysoft.gps.data;
+package com.ds.gps.data;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.Test;
